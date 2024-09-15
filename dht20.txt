@@ -1,0 +1,3 @@
+sudo pip3 install adafruit-circuitpython-ahtx0 --break-system-packages
+パスワードは「raspberry」
+pip3 install board --break-system-packages
