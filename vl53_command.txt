@@ -1,0 +1,8 @@
+以下のコマンドをLXTerminalに入力する
+git clone https://github.com/johnbryanmoore/VL53L0X_rasp_python.git
+
+cd VL53L0X_rasp_python
+make
+
+cd python
+python3 VL53L0X_example.py
