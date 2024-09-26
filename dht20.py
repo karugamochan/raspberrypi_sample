@@ -1,3 +1,4 @@
+#sudo pip install adafruit-circuitpython-ahtx0 --break-system-packages
 import time
 import board
 import busio
